@@ -1,0 +1,9 @@
+server:
+  port: 8081
+userinformation:
+  id: 1
+  username: 张三
+  password: 1343151
+  personalemail: 1902242754@enn.com
+  phone: 15061884024
+  msg_status: false
